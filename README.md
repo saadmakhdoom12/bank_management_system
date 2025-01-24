@@ -40,3 +40,10 @@ A C++ console application for managing bank operations with different user roles
 ```cpp
 g++ bank_management_system.cpp -o bank_system
 ```
+
+## ⚙️ Installation
+
+1. Clone the repository:
+```bash
+git clone git@github.com:saadmakhdoom12/library_management_system.git
+cd library-management-system
