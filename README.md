@@ -45,5 +45,5 @@ g++ bank_management_system.cpp -o bank_system
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:saadmakhdoom12/library_management_system.git
+git clone git@github.com:saadmakhdoom12/bank_management_system.git
 cd library-management-system
