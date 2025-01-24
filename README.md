@@ -1,8 +1,8 @@
-# Bank Management System
+# Bank Management System  :necktie:
 
 A C++ console application for managing bank operations with different user roles including Manager, Employee, and ATM user interface.
 
-## Features
+## Features  :sparkles:
 
 ### Manager Operations
 
